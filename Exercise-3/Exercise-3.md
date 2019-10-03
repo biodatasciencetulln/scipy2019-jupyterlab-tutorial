@@ -1,7 +1,6 @@
 # Exercises 3
 
-Follow the instructions below, and experiment along the way as you wish. Again,
-if something is not intuitive, or not in the place you expect, please write it down and let us know.
+Follow the instructions below, and experiment along the way as you wish.
 
 ## Assign existing shortcut to new action
 
